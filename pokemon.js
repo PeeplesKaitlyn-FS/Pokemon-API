@@ -1,4 +1,4 @@
-// pokemon.js — Node 18+ (global fetch). If you're on Node ≤16, see the note below.
+// pokemon.js — Node 18+ (global fetch). For Node ≤16, install `node-fetch@3` and add the shim in `pokemon.js`.
 
 const API_BASE = 'https://pokeapi.co/api/v2';
 
