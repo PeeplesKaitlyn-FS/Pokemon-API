@@ -1,0 +1,13 @@
+{
+  "name": "pokemon-api",
+  "version": "1.0.0",
+  "description": "Async/Await Pokemon API assignment",
+  "main": "pokemon.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node pokemon.js"
+  },
+  "author": "Kaitlyn Peeples",
+  "license": "MIT",
+  "dependencies": {}
+}
